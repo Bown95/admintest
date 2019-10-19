@@ -3,7 +3,7 @@ module.exports = {
     '@vue/app'
   ],
   'plugins': [
-    ["'import'", {
+    ['import', {
       'libraryName': 'iview',
       'libraryDirectory': 'src/components'
     }]

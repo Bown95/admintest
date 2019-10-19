@@ -1,5 +1,23 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="page">
+
   </div>
 </template>
+
+<script type="text/ecmascript-6">
+export default {
+  data() {
+    return {}
+  },
+  methods: {
+
+  },
+  components: {
+
+  }
+}
+</script>
+
+<style scoped lang="less">
+
+</style>
